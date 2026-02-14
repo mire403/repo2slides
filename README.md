@@ -1,4 +1,8 @@
-# 🎯 Repo2Slides - 代码仓库一键变 PPT
+<div align="center">
+
+# Repo2Slides - 代码仓库一键变 PPT
+
+</div>
 
 <div align="center">
 
