@@ -784,6 +784,6 @@ repo2slides/
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-<sub>Made by Haoze Zheng. 2026 CanIRunIt.</sub>
+<sub>Made by Haoze Zheng. 2026 Repo2Slides.</sub>
 
 </div>
